@@ -11,7 +11,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/VamsiKrishnaThota03",
   resume:
-    "https://drive.google.com/file/d/1Q_Z9dP5lboEGhbFI-10mEztVWrSU4Xsm/view",
+    "https://drive.google.com/drive/folders/1mGz3oW1rdjyMyasvPjENf9yR4RQzRLYw",
   linkedin: "https://www.linkedin.com/in/thota-vamsi-krishna-a6b9b1264/",
   insta: "https://www.instagram.com/vamsi_royal03/",
 };
